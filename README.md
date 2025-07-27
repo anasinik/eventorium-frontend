@@ -8,7 +8,7 @@
   <h1 align="center">EVENTORIUM</h1>
   <p align="center">
     <br />
-    <a href="https://github.com/kzi-nastava/iks-project-event-planner-siit-2024-team-13/issues/new?labels=bug">Report Bug</a>
+    <a href="https://github.com/anasinik/eventorium-frontend/issues/new?labels=bug">Report Bug</a>
     <a href="https://www.youtube.com/watch?v=pT37Y7nZLRk">Demo</a>
   </p>
 </div>
@@ -77,8 +77,8 @@ Before you begin, ensure you have the following installed:
 1. 🔁 Clone the repository
 
 ```sh
-git clone https://github.com/kzi-nastava/iks-project-event-planner-siit-2024-team-13.git
-cd iks-project-event-planner-siit-2024-team-13
+git clone https://github.com/anasinik/eventorium-frontend.git
+cd eventorium-frontend
 ```
 
 2. 📦 Install dependencies
@@ -152,10 +152,10 @@ You can view additional screenshots in the [screenshots](./screenshots) folder.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[contributors-shield]: https://img.shields.io/github/contributors/kzi-nastava/iks-project-event-planner-siit-2024-team-13.svg?style=for-the-badge
-[contributors-url]: https://github.com/kzi-nastava/iks-project-event-planner-siit-2024-team-13/graphs/contributors
-[license-shield]: https://img.shields.io/github/license/kzi-nastava/iks-project-event-planner-siit-2024-team-13.svg?style=for-the-badge
-[license-url]: https://github.com/kzi-nastava/iks-project-event-planner-siit-2024-team-13/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/anasinik/eventorium-frontend.svg?style=for-the-badge
+[contributors-url]: https://github.com/anasinik/eventorium-frontend/graphs/contributors
+[license-shield]: https://img.shields.io/github/license/anasinik/eventorium-frontend.svg?style=for-the-badge
+[license-url]: https://github.com/anasinik/eventorium-frontend/blob/master/LICENSE.txt
 [angular-shield]: https://img.shields.io/badge/Angular-18-red?logo=angular
 [angular-url]: https://angular.io/
 [material-shield]: https://img.shields.io/badge/Angular%20Material-%23187abd?logo=angular&logoColor=white
@@ -166,5 +166,5 @@ You can view additional screenshots in the [screenshots](./screenshots) folder.
 [html-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [css-shield]: https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white
 [css-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[last-commit-shield]: https://img.shields.io/github/last-commit/kzi-nastava/iks-project-event-planner-siit-2024-team-13?branch=main&style=for-the-badge
-[last-commit-url]: https://github.com/kzi-nastava/iks-project-event-planner-siit-2024-team-13/commits/main
+[last-commit-shield]: https://img.shields.io/github/last-commit/anasinik/eventorium-frontend?branch=main&style=for-the-badge
+[last-commit-url]: https://github.com/anasinik/eventorium-frontend/commits/main
